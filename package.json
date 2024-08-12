@@ -46,7 +46,7 @@
     "@typescript-eslint/parser": "^6",
     "@vitejs/plugin-react": "^4",
     "autoprefixer": "^10",
-    "eslint": "^8",
+    "eslint": "^9",
     "eslint-config-prettier": "^9",
     "eslint-plugin-prettier": "^5",
     "eslint-plugin-react": "^7",
